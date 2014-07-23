@@ -1,0 +1,10 @@
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\SlickAutoUpdate.exe.config
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\SevenZipSharp.dll
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\7z.dll
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\localversion
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\SlickAutoUpdate.exe
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\SlickAutoUpdate.pdb
+D:\GitHub\SlickUpdater\SlickAutoUpdate\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\SlickUpdater\SlickAutoUpdate\obj\Debug\SlickAutoUpdate.csprojResolveAssemblyReference.cache
+D:\GitHub\SlickUpdater\SlickAutoUpdate\obj\Debug\SlickAutoUpdate.exe
+D:\GitHub\SlickUpdater\SlickAutoUpdate\obj\Debug\SlickAutoUpdate.pdb

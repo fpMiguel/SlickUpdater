@@ -1,0 +1,41 @@
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\7z.dll
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\Slick Updater Beta.exe.config
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\Slick Updater Beta.exe.manifest
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\Slick Updater Beta.application
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\Slick Updater Beta.exe
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\Slick Updater Beta.pdb
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\SevenZipSharp.dll
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\WPFToolkit.dll
+D:\GitHub\SlickUpdater\SlickUpdater\bin\Debug\WPFToolkit.pdb
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.csprojResolveAssemblyReference.cache
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\About.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Arma3LaunchOptionsDialogue.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\newRepo.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\themes\ExpressionDark.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\log.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\RepoGen_InputDir_Browse.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\RepoGen_Options.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\RepoGen_OutputDir_Browse.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\App.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\About.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Arma3LaunchOptionsDialogue.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\newRepo.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\log.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\MainWindow.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\RepoGen_InputDir_Browse.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\RepoGen_Options.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\RepoGen_OutputDir_Browse.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\App.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta_Content.g.cs
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta_MarkupCompile.cache
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta_MarkupCompile.lref
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\MainWindow.baml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.g.resources
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\SlickUpdater.Properties.Resources.resources
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.csproj.GenerateResource.Cache
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.TrustInfo.xml
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.exe.manifest
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.application
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.exe
+D:\GitHub\SlickUpdater\SlickUpdater\obj\Debug\Slick Updater Beta.pdb
